@@ -47,10 +47,32 @@ input
 scope -> a regional that a variable is aceesed
 """
 
-name = "hp" # -> global scope
+# name = "hp" # -> global scope
+#
+# def display_name():
+#     name = "lenovo" # local scope
+#     print(name)
+#
+# print(name)
 
-def display_name():
-    name = "lenovo" # local scope
-    print(name)
+"""
+args parameter
+it will pack all args to a tuple
+"""
 
-print(name)
+# def sum(*args):
+#     result = 0
+#     for i in args:
+#         result += i
+#     return result
+# print(sum(1,2,3,4,5))
+
+def sum(*args):
+    sum = 0
+    args = list(args)
+    args[0] = 22
+    for i in args:
+        sum += i
+    return sum
+
+print(sum(1,2,3))
