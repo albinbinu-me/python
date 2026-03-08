@@ -41,5 +41,16 @@ abs
 float
 input
 """
+# print(abs(round(float(input("enter the number: ")))))
 
-print(abs(round(float(input("enter the number: ")))))
+"""
+scope -> a regional that a variable is aceesed
+"""
+
+name = "hp" # -> global scope
+
+def display_name():
+    name = "lenovo" # local scope
+    print(name)
+
+print(name)
