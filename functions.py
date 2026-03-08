@@ -2,9 +2,9 @@
 function is A BLOCK OF CODE only executed when we called
 """
 
-def hello(name):
-    print("hello " + name)
+def hello(fname,lname,age):
+    print("hello " + fname +" "+ lname)
+    print("you're "+ str(age))
 
 
-name = "bro"
-hello(name)
+hello("Albin","b",21)
