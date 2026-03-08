@@ -16,8 +16,17 @@ return - send a py value back to the caller.
 """
 
 
-def mult(x,y):
-    return x * y
+# def mult(x,y):
+#     return x * y
+#
+# sum = mult(2,3)
+# print(sum)
 
-sum = mult(2,3)
-print(sum)
+"""
+:keyword args
+"""
+
+def wish(firstName,lastName):
+    print("hello " + firstName + " " + lastName)
+
+wish(lastName="binu",firstName="Albin")
