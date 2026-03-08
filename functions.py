@@ -25,8 +25,21 @@ return - send a py value back to the caller.
 """
 :keyword args
 """
+# def wish(firstName,lastName):
+#     print("hello " + firstName + " " + lastName)
+#
+# wish(lastName="binu",firstName="Albin")
 
-def wish(firstName,lastName):
-    print("hello " + firstName + " " + lastName)
+"""
+nested function calls
+"""
 
-wish(lastName="binu",firstName="Albin")
+"""
+print
+round
+abs
+float
+input
+"""
+
+print(abs(round(float(input("enter the number: ")))))
