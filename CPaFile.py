@@ -12,11 +12,19 @@ src = "test.txt"
 destination = "C:\\Users\\albin\\OneDrive\\Documents\\copy.txt"
 
 # src, desti
+# try:
+#     action = shutil.copyfile(src,destination)
+#     if action:
+#         print("copied")
+#     else:
+#         print("something")
+# except Exception as e:
+#     print(e)
+
+
 try:
-    action = shutil.copyfile(src,destination)
+    action = shutil.copy(src,destination)
     if action:
-        print("copied")
-    else:
-        print("something")
+        print("done")
 except Exception as e:
     print(e)
