@@ -22,9 +22,20 @@ destination = "C:\\Users\\albin\\OneDrive\\Documents\\copy.txt"
 #     print(e)
 
 
+# copy file contents to another one using copy() method
+# try:
+#     action = shutil.copy(src,destination)
+#     if action:
+#         print("done")
+# except Exception as e:
+#     print(e)
+
+# copy file contents to another one using copy2() method
+
 try:
-    action = shutil.copy(src,destination)
+    action = shutil.copy2(src,destination)
     if action:
         print("done")
 except Exception as e:
     print(e)
+
