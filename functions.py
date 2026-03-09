@@ -67,12 +67,24 @@ it will pack all args to a tuple
 #     return result
 # print(sum(1,2,3,4,5))
 
-def sum(*args):
-    sum = 0
-    args = list(args)
-    args[0] = 22
-    for i in args:
-        sum += i
-    return sum
+# def sum(*args):
+#     sum = 0
+#     args = list(args)
+#     args[0] = 22
+#     for i in args:
+#         sum += i
+#     return sum
+#
+# print(sum(1,2,3))
 
-print(sum(1,2,3))
+"""
+**kwargs -> pack them into dict, 
+"""
+def display_name(**kwargs):
+    # print("hello",kwargs['firstName'],kwargs['lastName']) method 1
+    print("hello",end=" ")
+    for key,value in kwargs.items():
+        print(value,end=" ")
+
+
+display_name(title="mrs",firstName="rohini",lastName="pk")
