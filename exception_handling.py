@@ -22,5 +22,7 @@ except Exception as e:
     print(e,"occurred")
 else:
     print(answer)
+finally:
+    print("always execute!")
 
 
