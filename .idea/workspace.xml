@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c74e116b-bc4c-41f8-90e4-2d6556a8ba8b" name="Changes" comment="initial commit -&gt; crated for loop, nested loops, loop control statements">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whileloop.py" afterDir="false" />
+    <list default="true" id="c74e116b-bc4c-41f8-90e4-2d6556a8ba8b" name="Changes" comment="Basic Rock Paper Scissor">
+      <change afterPath="$PROJECT_DIR$/WhileLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2dlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CPaFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoveAFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rmfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPapperScissors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception_handling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileHandling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forloop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/format.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomNum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readingAFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/whileloop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/writeAFile.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +39,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;albinbinu-me&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/albinbinu-me/python&quot;,
+    &quot;accountId&quot;: &quot;46702fb7-2592-465c-a1bc-0df53f0f9fbc&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -36,18 +69,48 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2dlist.executor": "Run",
+    "Python.Animal.executor": "Run",
+    "Python.CPaFile.executor": "Run",
+    "Python.Module.executor": "Run",
+    "Python.MoveAFile.executor": "Run",
+    "Python.QuizGame.executor": "Run",
+    "Python.Rmfile.executor": "Run",
+    "Python.RockPapperScissors.executor": "Run",
+    "Python.WhileLoop.executor": "Run",
+    "Python.car.executor": "Run",
+    "Python.dicts.executor": "Run",
+    "Python.exception_handling.executor": "Run",
+    "Python.fileHandling.executor": "Run",
     "Python.forloop.executor": "Run",
+    "Python.format.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.lecture_8.executor": "Run",
+    "Python.lists.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.randomNum.executor": "Run",
+    "Python.readingAFile.executor": "Run",
+    "Python.sets.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.tuples.executor": "Run",
     "Python.whileloop.executor": "Run",
+    "Python.writeAFile.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "git-widget-placeholder": "important",
+    "last_opened_file_path": "C:/Users/albin/OneDrive/Desktop/python",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\albin\OneDrive\Desktop\python\code" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,7 +127,20 @@
       <option name="presentableId" value="Default" />
       <updated>1772978854578</updated>
       <workItem from="1772978855057" duration="820000" />
-      <workItem from="1772982198880" duration="1672000" />
+      <workItem from="1772982198880" duration="4596000" />
+      <workItem from="1773033995132" duration="7790000" />
+      <workItem from="1773047656574" duration="4139000" />
+      <workItem from="1773060706081" duration="3050000" />
+      <workItem from="1773065734720" duration="2772000" />
+      <workItem from="1773073132255" duration="16000" />
+      <workItem from="1773076132389" duration="16000" />
+      <workItem from="1773135244611" duration="3716000" />
+      <workItem from="1773152729415" duration="69000" />
+      <workItem from="1773240587446" duration="1012000" />
+      <workItem from="1773251829305" duration="2654000" />
+      <workItem from="1773334169882" duration="2423000" />
+      <workItem from="1773379454337" duration="6365000" />
+      <workItem from="1773409007006" duration="1847000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -90,23 +166,285 @@
       <option name="project" value="LOCAL" />
       <updated>1772983598634</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <option name="closed" value="true" />
+      <created>1772983981010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772983981010</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <option name="closed" value="true" />
+      <created>1772984064404</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1772984064404</updated>
+    </task>
+    <task id="LOCAL-00006" summary="funcs">
+      <option name="closed" value="true" />
+      <created>1772984273077</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772984273077</updated>
+    </task>
+    <task id="LOCAL-00007" summary="return">
+      <option name="closed" value="true" />
+      <created>1772984559627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772984559629</updated>
+    </task>
+    <task id="LOCAL-00008" summary="keyword args">
+      <option name="closed" value="true" />
+      <created>1772984833234</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772984833234</updated>
+    </task>
+    <task id="LOCAL-00009" summary="nested function calls">
+      <option name="closed" value="true" />
+      <created>1772985115835</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772985115835</updated>
+    </task>
+    <task id="LOCAL-00010" summary="local scope &amp; global scope">
+      <option name="closed" value="true" />
+      <created>1772985365797</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772985365797</updated>
+    </task>
+    <task id="LOCAL-00011" summary="args">
+      <option name="closed" value="true" />
+      <created>1772986295108</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772986295111</updated>
+    </task>
+    <task id="LOCAL-00012" summary="kwrgs">
+      <option name="closed" value="true" />
+      <created>1773035615717</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1773035615717</updated>
+    </task>
+    <task id="LOCAL-00013" summary="created list, print items &amp; items by index, printed using loops (for,while)">
+      <option name="closed" value="true" />
+      <created>1773036129317</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1773036129317</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added list functions">
+      <option name="closed" value="true" />
+      <created>1773036553859</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1773036553859</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added 2d list">
+      <option name="closed" value="true" />
+      <created>1773037257750</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1773037257750</updated>
+    </task>
+    <task id="LOCAL-00016" summary="created tuples, checked with loops, and if-else">
+      <option name="closed" value="true" />
+      <created>1773037288724</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1773037288724</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added sets">
+      <option name="closed" value="true" />
+      <created>1773038721295</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1773038721295</updated>
+    </task>
+    <task id="LOCAL-00018" summary="created dict">
+      <option name="closed" value="true" />
+      <created>1773040089062</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1773040089062</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fomat">
+      <option name="closed" value="true" />
+      <created>1773049332393</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1773049332393</updated>
+    </task>
+    <task id="LOCAL-00020" summary="random module and its functions">
+      <option name="closed" value="true" />
+      <created>1773049786230</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1773049786230</updated>
+    </task>
+    <task id="LOCAL-00021" summary="created exception handling">
+      <option name="closed" value="true" />
+      <created>1773050692170</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1773050692170</updated>
+    </task>
+    <task id="LOCAL-00022" summary="added else block">
+      <option name="closed" value="true" />
+      <created>1773050757658</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1773050757658</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added finally block">
+      <option name="closed" value="true" />
+      <created>1773050872011</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1773050872011</updated>
+    </task>
+    <task id="LOCAL-00024" summary="file decetion">
+      <option name="closed" value="true" />
+      <created>1773052568602</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1773052568602</updated>
+    </task>
+    <task id="LOCAL-00025" summary="reading contents of a file">
+      <option name="closed" value="true" />
+      <created>1773061509279</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1773061509279</updated>
+    </task>
+    <task id="LOCAL-00026" summary="wrote contents of a file">
+      <option name="closed" value="true" />
+      <created>1773062144624</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1773062144624</updated>
+    </task>
+    <task id="LOCAL-00027" summary="copy file contents to another one">
+      <option name="closed" value="true" />
+      <created>1773063057958</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1773063057958</updated>
+    </task>
+    <task id="LOCAL-00028" summary="copy file contents to another one using copy() method">
+      <option name="closed" value="true" />
+      <created>1773063196066</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1773063196066</updated>
+    </task>
+    <task id="LOCAL-00029" summary="copy file using shutil">
+      <option name="closed" value="true" />
+      <created>1773063358060</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1773063358060</updated>
+    </task>
+    <task id="LOCAL-00030" summary="move a file">
+      <option name="closed" value="true" />
+      <created>1773136711556</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1773136711556</updated>
+    </task>
+    <task id="LOCAL-00031" summary="remove file using&#10;os.remove&#10;os.rmdir&#10;os.rmtree">
+      <option name="closed" value="true" />
+      <created>1773138787231</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1773138787231</updated>
+    </task>
+    <task id="LOCAL-00032" summary="created py modules and import and anaylsed">
+      <option name="closed" value="true" />
+      <created>1773139384314</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1773139384314</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Basic Rock Paper Scissor">
+      <option name="closed" value="true" />
+      <created>1773253888897</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1773253888897</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit" />
-    <MESSAGE value="initial commit -&gt; crated for loop" />
-    <MESSAGE value="initial commit -&gt; crated for loop, nested loops, loop control statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit -&gt; crated for loop, nested loops, loop control statements" />
+    <MESSAGE value="nested function calls" />
+    <MESSAGE value="local scope &amp; global scope" />
+    <MESSAGE value="args" />
+    <MESSAGE value="kwrgs" />
+    <MESSAGE value="created list, print items &amp; items by index, printed using loops (for,while)" />
+    <MESSAGE value="added list functions" />
+    <MESSAGE value="added 2d list" />
+    <MESSAGE value="created tuples, checked with loops, and if-else" />
+    <MESSAGE value="added sets" />
+    <MESSAGE value="created dict" />
+    <MESSAGE value="fomat" />
+    <MESSAGE value="random module and its functions" />
+    <MESSAGE value="created exception handling" />
+    <MESSAGE value="added else block" />
+    <MESSAGE value="added finally block" />
+    <MESSAGE value="file decetion" />
+    <MESSAGE value="reading contents of a file" />
+    <MESSAGE value="wrote contents of a file" />
+    <MESSAGE value="copy file contents to another one" />
+    <MESSAGE value="copy file contents to another one using copy() method" />
+    <MESSAGE value="copy file using shutil" />
+    <MESSAGE value="move a file" />
+    <MESSAGE value="remove file using&#10;os.remove&#10;os.rmdir&#10;os.rmtree" />
+    <MESSAGE value="created py modules and import and anaylsed" />
+    <MESSAGE value="Basic Rock Paper Scissor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Rock Paper Scissor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
+          <url>file://$PROJECT_DIR$/code/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -114,8 +452,31 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python$forloop.coverage" NAME="forloop Coverage Results" MODIFIED="1772983571612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$exception_handling.coverage" NAME="exception_handling Coverage Results" MODIFIED="1773050723917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$2dlist.coverage" NAME="2dlist Coverage Results" MODIFIED="1773036719038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Rmfile.coverage" NAME="Rmfile Coverage Results" MODIFIED="1773138689978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$writeAFile.coverage" NAME="writeAFile Coverage Results" MODIFIED="1773062037898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$WhileLoop.coverage" NAME="WhileLoop Coverage Results" MODIFIED="1773410813036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$randomNum.coverage" NAME="randomNum Coverage Results" MODIFIED="1773049726359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$car.coverage" NAME="car Coverage Results" MODIFIED="1773336560127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/python$QuizGame.coverage" NAME="QuizGame Coverage Results" MODIFIED="1773335845294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$sets.coverage" NAME="sets Coverage Results" MODIFIED="1773038611725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Animal.coverage" NAME="Animal Coverage Results" MODIFIED="1773384492287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/python$dicts.coverage" NAME="dicts Coverage Results" MODIFIED="1773039367449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$readingAFile.coverage" NAME="readingAFile Coverage Results" MODIFIED="1773061333681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1773388482705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/mutliple_inheritance" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1773136516878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$format.coverage" NAME="format Coverage Results" MODIFIED="1773049216338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$tuples.coverage" NAME="tuples Coverage Results" MODIFIED="1773037197367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$RockPapperScissors.coverage" NAME="RockPapperScissors Coverage Results" MODIFIED="1773253814210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$whileloop.coverage" NAME="whileloop Coverage Results" MODIFIED="1772979034154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$functions.coverage" NAME="functions Coverage Results" MODIFIED="1772983837109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Module.coverage" NAME="Module Coverage Results" MODIFIED="1773139316464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$lists.coverage" NAME="lists Coverage Results" MODIFIED="1773036474694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$functions.coverage" NAME="functions Coverage Results" MODIFIED="1773035558669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$CPaFile.coverage" NAME="CPaFile Coverage Results" MODIFIED="1773063310693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$fileHandling.coverage" NAME="fileHandling Coverage Results" MODIFIED="1773051475929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$MoveAFile.coverage" NAME="MoveAFile Coverage Results" MODIFIED="1773068362474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$forloop.coverage" NAME="forloop Coverage Results" MODIFIED="1772983571612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$lecture_8.coverage" NAME="lecture_8 Coverage Results" MODIFIED="1773380211439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
   </component>
 </project>
