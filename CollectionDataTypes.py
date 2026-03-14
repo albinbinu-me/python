@@ -62,7 +62,7 @@ Tuple = () ordered and unchangeable. duplicates, faster
 # fruits = {"apple","orange","banana","grapes","apple"}
 # duplicate values wont worked
 
-fruits = {"apple","orange","banana","grapes"}
+# fruits = {"apple","orange","banana","grapes"}
 # length of fruits
 # print(len(fruits))
 # fruits.clear()
@@ -78,3 +78,18 @@ fruits = {"apple","orange","banana","grapes"}
 # fruits.pop()
 
 # print(fruits)
+
+# fruits = ("apple","orange","banana","grapes")
+
+# add duplicate values.
+fruits = ("apple","orange","banana","grapes",)
+
+# print(len(fruits))
+
+# print("pineapple" in fruits)
+
+# count is used to count the no. elements
+# print(fruits.count('apple'))
+
+for fruit in fruits:
+    print(fruit)
