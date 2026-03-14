@@ -3,8 +3,8 @@ list = [] ordered and changeable, Duplicate Ok
 set = {} unordered and immutable, but Add/remove. No duplicates
 Tuple = () ordered and unchangeable. duplicates, faster
 """
-
-fruits = ['apple','orange','banana','coconut']
+# list
+# fruits = ['apple','orange','banana','coconut']
 
 
 # start:end(exclude)
@@ -54,5 +54,27 @@ fruits = ['apple','orange','banana','coconut']
 
 # count - is used to check any duplicate present
 
-print(fruits.count('apple'))
+# print(fruits.count('apple'))
 # print(fruits.count('melons'))
+
+# set
+
+# fruits = {"apple","orange","banana","grapes","apple"}
+# duplicate values wont worked
+
+fruits = {"apple","orange","banana","grapes"}
+# length of fruits
+# print(len(fruits))
+# fruits.clear()
+
+# we can add elements, but cant do insert, because it is unordered
+# fruits.add('kiwi')
+
+# fruits.remove('apple')
+
+# print("pine apple" in fruits)
+
+# removes the last element of the list
+# fruits.pop()
+
+# print(fruits)
