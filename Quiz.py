@@ -14,7 +14,7 @@ options = (
 ("A. Mercury","B. Venus","C. Earth","D. Mars")
 )
 
-answer = ("C","D","A","A","B")
+answers = ("C","D","A","A","B")
 guesses = []
 score = 0
 question_num = 0
@@ -29,11 +29,21 @@ for question in questions:
 
     user_input = input("enter your guesses: ").upper()
     guesses.append(user_input)
-    if user_input == answer[question_num]:
+    if user_input == answers[question_num]:
         score += 1
         print("correct")
     else:
         print("incorrect")
     question_num += 1
 
-print(f"total score is {score}")
+print("-------------------------------")
+print("              RESULT           ")
+print("-------------------------------")
+
+print("correct answer's")
+for answer in answers:
+    print(answer,end=" ")
+print()
+print("your guesses")
+for guess in guesses:
+    print(guess,end=" ")
