@@ -47,3 +47,6 @@ print()
 print("your guesses")
 for guess in guesses:
     print(guess,end=" ")
+
+print()
+print(f"your score is {score}")
